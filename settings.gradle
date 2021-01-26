@@ -1,0 +1,3 @@
+include ':FSForms'
+include ':app'
+rootProject.name = "FSFormsExample"
